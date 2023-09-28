@@ -4,4 +4,4 @@ The study involved the Document Request of Barangay Batasan Hills, a decision su
 
 Below was the test of portability of the system to different browsers and the result was stated as given below.
 
-![image](https://github.com/FeaInGithub/Manual-Testing/assets/143395648/ad06c929-b9f1-487b-b926-625ec4118b3b)
+![image](https://github.com/FeaInGithub/Manual-Testing/assets/143395648/1aa5164a-8b0a-4648-ab63-ffadd1cc5b47)
