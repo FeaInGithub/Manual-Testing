@@ -1,5 +1,5 @@
 # Manual-Testing
 
-Test cases from college capstone. (Branches)
+Test cases from college capstone. (Refer to the branches)
 
 
