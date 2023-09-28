@@ -8,3 +8,6 @@ Below were some snippit of successful test results of each of the module and imp
 
 ![image](https://github.com/FeaInGithub/Manual-Testing/assets/143395648/936b31f8-3992-4da1-beb0-eb617c25605f)
 
+![image](https://github.com/FeaInGithub/Manual-Testing/assets/143395648/454b4a34-783d-4de5-acb6-de0fda99fe84)
+
+![image](https://github.com/FeaInGithub/Manual-Testing/assets/143395648/6236fcea-9bb1-4d17-a216-3795da065820)
