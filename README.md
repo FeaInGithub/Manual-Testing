@@ -1,4 +1,4 @@
-# Manual-Testing
+# Tests
 
 Test cases from college capstone. (Refer to the branches)
 
